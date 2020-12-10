@@ -1,0 +1,28 @@
+<div id="container">
+  <article id="card">
+    <header>
+      <img id="michealkorsLogo" src="https://img-static.tradesy.com/item/22018510/michael-kors-gold-mk-yellow-round-logo-charm-2-0-960-960.jpg" alt="">
+      <span id="michealkors" class="subhead">Micheal Kors</span>
+    </header>
+    <img id="bag" src="https://michaelkors.scene7.com/is/image/MichaelKors/30H8GEZB2B-1821_1?wid=558&hei=748&op_sharpen=1&resMode=sharp2&qlt=90" alt="">
+    <section>
+      <div id="description">
+        <span id="retail" class="subhead">Retail</span><span id="time" class="faded">7d ago</span>
+      </div>
+      <div id="location">
+        <img src="https://img.freepik.com/free-vector/location_53876-25530.jpg?size=338&ext=jpg" alt="">
+        <span class="faded">South America</span>
+      </div>
+      <div id="tags">
+        <ul>
+          <li>Advertising</li>
+          <li>Widget</li>
+        </ul>
+      </div>
+    </section>
+    <footer>
+      <p>Description</p>
+      <p class="faded">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur omnis excepturi perferendis quasi labore architecto...</p>
+    </footer>
+  </article>
+</div>
